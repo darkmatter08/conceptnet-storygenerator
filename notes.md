@@ -1,0 +1,54 @@
+All Relations
+from https://groups.google.com/forum/#!topic/conceptnet-users/-XTb7IvoD4Y
+
+```
+3872649 /r/RelatedTo
+1506460 /r/TranslationOf
+1283996 /r/IsA
+ 778888 /r/EtymologicallyDerivedFrom
+ 375314 /r/Synonym
+ 353721 /r/DerivedFrom
+ 190484 /r/AtLocation
+ 154061 /r/Causes
+ 132377 /r/UsedFor
+ 131627 /r/MotivatedByGoal
+ 114610 /r/HasSubevent
+ 109823 /r/Antonym
+ 103107 /r/CapableOf
+  86158 /r/Desires
+  43064 /r/CausesDesire
+  40742 /r/PartOf
+  40043 /r/HasProperty
+  38049 /r/HasPrerequisite
+  36287 /r/MadeOf
+  31001 /r/CompoundDerivedFrom
+  28134 /r/HasFirstSubevent
+  20431 /r/DefinedAs
+  12429 /r/HasA
+  12290 /r/MemberOf
+  12030 /r/ReceivesAction
+  11723 /r/InstanceOf
+  11561 /r/SimilarTo
+  10421 /r/SymbolOf
+   8951 /r/HasContext
+   8555 /r/NotDesires
+   5371 /r/ObstructedBy
+   4427 /r/HasLastSubevent
+   3785 /r/wordnet/adjectivePertainsTo
+   3698 /r/NotUsedFor
+   3484 /r/NotCapableOf
+   2880 /r/wordnet/adverbPertainsTo
+   1372 /r/DesireOf
+   1313 /r/NotHasProperty
+    880 /r/CreatedBy
+    639 /r/Attribute
+    567 /r/NotIsA
+    475 /r/NotHasA
+    408 /r/Entails
+    189 /r/LocationOfAction
+     95 /r/LocatedNear
+     61 /r/wordnet/participleOf
+     35 /r/NotMadeOf
+     11 /r/SimilarSize
+      2 /r/NotCauses
+```

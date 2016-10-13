@@ -1,0 +1,93 @@
+Furniture:
+- Bathroom cabinet
+- Bathroom counter
+- Bathtub
+- Bed
+- Bench
+- Bookshelf
+- Closet
+- Coffee table
+- Computer chair
+- Computer table
+- Kitchen cabinet
+- Kitchen counter
+- Kitchen chair
+- Kitchen table
+- Night stand
+- Shelf
+- Shower stall
+- Sofa
+- Toilet stall
+- Toilet
+- Towel rack
+- TV stand
+
+Appliances:
+- Coffeemaker
+- Dishwasher
+- Fridge
+- Stove
+- Stove fan
+- Toaster
+
+Decor:
+- Curtain
+- Painting
+- Pillow
+- Rug
+- Flower
+
+Electronics:
+- CPU case
+- CPU screen
+- Keyboard
+- Light switch
+- Mouse
+- Mouse mat
+- Power socket
+- TV
+- Wall phone
+
+Lamps:
+- Ceiling lamp
+- Table lamp
+- Wall lamp
+
+Props:
+- Book
+- Bowl
+- Box
+- Clothes
+- Clothes pile
+- Condiment
+- Cooking pot
+- Conditioner
+- Deodorant
+- Face cream
+- Fork
+- Frying pan
+- Hand soap
+- Knife block
+- Knife
+- Mug
+- Pepper shaker
+- Perfume
+- Photo frame
+- Plate
+- Salt shaker
+- Shampoo
+- Slippers
+- Toilet paper
+- Toothbrush
+- Towel
+- Washing liquid
+- Washing sponge
+- Water glass
+- Wine glass
+
+INTERIOR BUILDING PIECES:
+- Ceiling
+- Door
+- Floor
+- Wall
+- Window
